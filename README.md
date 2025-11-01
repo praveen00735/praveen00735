@@ -15,14 +15,14 @@
 - 🔭 I’m currently working on *building responsive web pages and simple web apps*
 - 🌱 I’m learning *JavaScript and Python for full-stack development*
 - 💬 Ask me about *HTML, CSS, JavaScript, and Python*
-- 📫 How to reach me: *praveen00735@gmail.com*
-- ⚡ Fun fact: I love coding, gaming, and watching Formula 1 🏎
+- 📫 How to reach me: *praveensenthil539@gmail.com*
+
 
 ---
 
 ### 🧰 Languages and Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,github,vscode" />
 </p>
 
 ---
@@ -56,16 +56,13 @@
 
 ### 🏆 Achievements & Highlights
 - 🥇 Completed multiple front-end practice projects  
-- 🧠 Built a mini Python script toolset  
-- 🧩 Contributed to personal open-source experiments  
+- 🧠 Built a mini Python projects  
 - 💡 Continuously improving coding logic and design skills  
-- 🗣 Helped friends learn basic HTML/CSS  
 
 ---
 
 ### 📚 What I Use to Learn
 - 🎓 *FreeCodeCamp* & *W3Schools* for daily practice  
-- 💻 *YouTube tutorials* for coding walkthroughs  
 - 📘 *MDN Web Docs* for references  
 - 🧠 *ChatGPT* for debugging and quick concept learning  
 
@@ -74,18 +71,18 @@
 ### 💪 Tech Progress (My Skills)
 | Skill | Progress |
 |--------|-----------|
-| HTML | ██████████ 95% |
-| CSS | █████████ 90% |
-| JavaScript | ███████ 70% |
+| HTML | ██████ 60% |
+| CSS | ██████ 60% |
+| JavaScript | ██████ 60% |
 | Python | ██████ 60% |
-| Git & GitHub | ███████ 75% |
+| Git & GitHub | █████ 50% |
 
 ---
 
 ### 🎮 Hobbies & Interests
 - 🕹 Gaming and exploring tech gadgets  
-- 🏎 Watching Formula 1 races  
-- 🎧 Listening to music while coding  
+- 🎧 Listening to music while coding
+- ⚽ i love to watch football matches
 - 🌏 Learning new tech every day  
 
 ---
