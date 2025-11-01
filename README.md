@@ -5,9 +5,7 @@
   </a>
 </h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=praveen00735&label=Profile%20Views&color=00C0FF&style=for-the-badge" alt="profile views" />
-</p>
+
 
 ---
 
