@@ -98,7 +98,7 @@
   <a href="https://www.linkedin.com/in/praveen-kumar-053389346?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:praveensenthil539@gmail.com">
+  <a href="gmail:praveensenthil539@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   <a href="https://www.instagram.com/praveenkumar_spk_2k04?igsh=bXVoczM3OHVveWR0" target="_blank">
