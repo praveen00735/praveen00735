@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on *building responsive web pages*  
 - 🌱 I’m learning *JavaScript and Python for full-stack development*  
 - 💬 Ask me about *HTML, CSS, JavaScript, and Python*  
-- 📫 How to reach me: *praveen00735@gmail.com*  
+- 📫 How to reach me: *praveensenthil@gmail.com*  
 - ⚡ Fun fact: I love coding and watching Formula 1 🏎  
 
 ---
